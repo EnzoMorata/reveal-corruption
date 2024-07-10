@@ -21,7 +21,7 @@ yarn dev
 
 -  To build the application for production, use the command:
 ```bash
-yarn dev
+yarn build
 ```
 
 This command generate all the files inside the [dist directory](./dist/).
