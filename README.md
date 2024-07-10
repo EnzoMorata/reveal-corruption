@@ -1,23 +1,69 @@
 # reveal-corruption
 Personal project about an Information Visualization Tool about corruption cases in Chile
 
-## How to run dev mode
+## How to run the project
 
-# Running with local installation
-Is required have installed yarn. To run the application in dev mode, use the command:
+### Running with local installation
+It is required have installed the [Yarn](https://yarnpkg.com/) package manager. To install all the dependencies needed run the command: 
+
+```bash
+yarn install
+```
+
+Then, you can use the application commands detailed below:
+
+#### Application commands
+- To run the application in dev mode, use the command:
 
 ```bash
 yarn dev
 ```
 
-# Running with Docker Compose
-Is required have Docker and Docker Compose installed. To run the container with already the app in dev mode, use the command:
-
+-  To build the application for production, use the command:
 ```bash
-docker compose up
+yarn dev
 ```
 
-The Docker Compose file has setted to reflect the changes in the app directory into the running container. Allowing to benefit of the Vite reload on file changes.
+This command generate all the files inside the [dist directory](./dist/).
+
+
+### Running with Docker Compose
+It is required to have [Docker and Docker Compose](https://www.docker.com/) installed. This option allows running a container with all the needed dependencies without installing them manually.
+
+1. Start the container: 
+Run the following command to start the container: 
+
+```bash
+docker compose up -d 
+```
+
+It is recommended to run it detached using the *-d* flag to run the next commands in the same terminal. Alternatively, it can be run it without detaching and use a second terminal.
+
+2. Access the container terminal:
+To run commands inside the container, first identify the *container name* or *ID* using:
+
+```bash
+docker container ls
+```
+
+Then, use the following command, replacing {container_name_or_id} with the actual container name or ID. This command runs an interactive bash terminal with the container:
+
+```bash
+docker exec -it {container_name_or_id} bash 
+```
+
+3. Run application commands:
+Now it is possible to run the same commands described in the [section above](#application-commands). 
+
+#### Notes
+The Docker Compose file is configured to reflect changes in the app directory into the running container, allowing you to benefit from Vite's hot reload on file changes in development mode or generate production build.
+
+4. Stop the container:
+When finish to use the app, run the next command to stop the container:
+
+```bash
+docker compose down
+```
 
 
 # React + TypeScript + Vite
