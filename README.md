@@ -1,6 +1,24 @@
 # reveal-corruption
 Personal project about an Information Visualization Tool about corruption cases in Chile
 
+## How to run dev mode
+
+# Running with local installation
+Is required have installed yarn. To run the application in dev mode, use the command:
+
+```bash
+yarn dev
+```
+
+# Running with Docker Compose
+Is required have Docker and Docker Compose installed. To run the container with already the app in dev mode, use the command:
+
+```bash
+docker compose up
+```
+
+The Docker Compose file has setted to reflect the changes in the app directory into the running container. Allowing to benefit of the Vite reload on file changes.
+
 
 # React + TypeScript + Vite
 
