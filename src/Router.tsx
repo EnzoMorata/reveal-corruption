@@ -3,12 +3,13 @@ import {
     RouterProvider
 } from 'react-router-dom';
 
+import Landing from './pages/Landing.tsx';
 import App from './App.tsx';
 
 const router = createBrowserRouter([
     {
         path: '/',
-        element: <div>Hello world!</div>,
+        element: <Landing />,
     },
     {
         path: 'about',
