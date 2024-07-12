@@ -1,4 +1,4 @@
-import { 
+import React, { 
     Component,
     createRef
 } from 'react';
@@ -12,7 +12,7 @@ export interface BaseChartProps {
 export interface BaseChartState {
     size: { width: number, height: number },
     data: any,
-    chartReference: any
+    chartReference: React.RefObject<HTMLDivElement>,
 }
 
 export class BaseChart extends Component<BaseChartProps, BaseChartState>{
@@ -21,7 +21,7 @@ export class BaseChart extends Component<BaseChartProps, BaseChartState>{
         this.state = {
             data: props.data,
             size: props.size,
-            chartReference: createRef<HTMLDivElement>()
+            chartReference: createRef<HTMLDivElement>(),
         }
     }
 
@@ -36,7 +36,12 @@ export class BaseChart extends Component<BaseChartProps, BaseChartState>{
             .remove();
     }
     
-    protected createChart() {};
+    protected createChart() {
+        d3.select(this.state.chartReference.current)
+            .append('svg')
+            .attr('width', this.state.size.width)
+            .attr('height', this.state.size.height);
+    }
 
     componentDidUpdate(prevProps: Readonly<BaseChartProps>) {
         if (prevProps.size !== this.props.size) {

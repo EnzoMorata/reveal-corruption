@@ -10,11 +10,10 @@ export class BarPlot extends BaseChart {
     }
 
     createChart() {
-        const barPlot = d3
-            .select(this.state.chartReference.current)
-            .append('svg')
-            .attr('width', this.state.size.width)
-            .attr('height', this.state.size.height)
+        super.createChart();
+
+        const barPlot = d3.select(this.state.chartReference.current)
+            .select('svg')         
             .style('background-color', 'white')
 
         barPlot
