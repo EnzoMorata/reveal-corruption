@@ -26,10 +26,17 @@ export class BaseChart extends Component<BaseChartProps, BaseChartState>{
     }
 
     componentDidMount() {
+        this.clearChart();
         this.createChart();
     }
     
-    createChart() {};
+    private clearChart() {
+        d3.select(this.state.chartReference.current)
+            .select('svg')
+            .remove();
+    }
+    
+    protected createChart() {};
 
     componentDidUpdate(prevProps: Readonly<BaseChartProps>) {
         if (prevProps.size !== this.props.size) {
@@ -38,12 +45,6 @@ export class BaseChart extends Component<BaseChartProps, BaseChartState>{
         }
     }
 
-    private clearChart() {
-        d3.select(this.state.chartReference.current)
-            .select('svg')
-            .remove();
-    }
-    
     render() {   
         return <div ref={this.state.chartReference} />
     }        
