@@ -1,18 +1,19 @@
 import {
-    BaseChart,
-    BaseChartProps,
-} from './BaseChart.tsx';
+    SimpleD3Component,
+    SimpleD3ComponentProps
+} from 'simple-d3-component'
+
 import * as d3 from 'd3';
 
-export class BarPlot extends BaseChart {
-    constructor(props: BaseChartProps) {
+export class BarPlot extends SimpleD3Component {
+    constructor(props: SimpleD3ComponentProps) {
         super(props);
     }
 
-    createChart() {
-        super.createChart();
+    createVisualization() {
+        super.createVisualization();
 
-        const barPlot = d3.select(this.state.chartReference.current)
+        const barPlot = d3.select(this.state.componentReference.current)
             .select('svg')         
             .style('background-color', 'white')
 
@@ -20,6 +21,6 @@ export class BarPlot extends BaseChart {
             .append('text')
             .attr('x', this.state.size.width / 2)
             .attr('y', 20)
-            .text(this.state.data)
+            .text('My First Barplot Component')
     }
 }
