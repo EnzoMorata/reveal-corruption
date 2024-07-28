@@ -64,3 +64,14 @@ When finish to use the app, run the next command to stop the container:
 ```bash
 docker compose down
 ```
+
+## Data
+
+This project use de following data sources:
+
+- [Visualizador de datos sobre los casos de corrupción en Chile](https://github.com/bastianolea/corrupcion_chile): GitHub repository of an actual information visualization application about corruption in Chile, created by Bastián Olea Herrera. The data was copy into the directory [corrupcion_chile_bastian_olea](./src/data/original_data/corrupcion_chile_bastian_olea/). This application use the [GPL-3.0 license](./LICENSE.md), and as a result, *Reveal Corruption* uses the same license.
+
+
+## License Compliance
+
+The data from the [corrupcion_chile](https://github.com/bastianolea/corrupcion_chile) repository is used under the terms of the GPL-3.0 license. The GPL-3.0 license requires that any derivative works also be licensed under the GPL-3.0. Therefore, this project, *Reveal Corruption*, is distributed under the GPL-3.0 license. You can find a copy of the GPL-3.0 license in the [LICENSE.md](./LICENSE.md) file in this repository. For more information about the GPL-3.0 license, please visit the [official GPL website](https://www.gnu.org/licenses/gpl-3.0.html).
