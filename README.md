@@ -1,5 +1,8 @@
-# reveal-corruption
-Personal project about an Information Visualization Tool about corruption cases in Chile
+# Reveal Corruption
+
+Personal project about an Information Visualization Tool focused on corruption cases in Chile. This project was born from my motivation to contribute to transparency, a relevant aspect of democracy. Additionally, it was created to serve as part of my portfolio. Therefore, this repository does not initially expect any code contributions. However, other forms of support, such as sharing new data sources to include in this project, are welcome.
+
+This project is Open Source, so even if this repository is not expecting code-related Pull Requests, you can create a new project based on this one. For this, it is important to comply with the [GPL-3.0 license](./LICENSE.md). Also, please see the [License Compliance](#license-compliance) section for more details.
 
 ## How to run the project
 
