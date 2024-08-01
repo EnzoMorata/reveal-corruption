@@ -1,0 +1,2787 @@
+{
+    "metadata": {},
+    "data": [
+        {
+            "Caso": "Alcaldesa de Viña del Mar (Virginia Reginato)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Virginia Reginato",
+            "Comuna": "Viña del Mar",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 100000000000,
+            "Año": 2021,
+            "Año inicio": 2016,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2022/09/23/auditoria-revela-caos-municipal-en-administracion-reginato-100-mil-millones-en-perdidas.shtml",
+                "https://www.publimetro.cl/noticias/2022/09/23/100-mil-millones-las-perdidas-de-virginia-reginato-en-municipalidad-de-vina-del-mar/",
+                "https://www.fastcheck.cl/2023/05/16/misterio-sin-resolver-ocho-escandalos-de-corrupcion-municipal-pendientes-de-justicia/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ],
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "abandono de deberes"
+            ]
+        },
+        {
+            "Caso": "Fraude en Carabineros, Pacogate",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Carabineros",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Eduardo Gordon, Gustavo González, Bruno Villalobos",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 35000000000,
+            "Año": 2016,
+            "Año inicio": 2006,
+            "Año fin": 2017,
+            "Fuente": [
+                "https://es.wikipedia.org/wiki/Pacogate#Investigación_y_sentencias"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos"
+            ]
+        },
+        {
+            "Caso": "Alcaldesa de Maipú (Cathy Barriga)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Cathy Barriga",
+            "Comuna": "Maipú",
+            "Fundación": null,
+            "Conclusión": "prisión preventiva",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 31000000000,
+            "Año": 2024,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://radio.uchile.cl/2024/01/17/en-suspenso-prision-preventiva-para-cathy-barriga-tribunal-dictara-cautelar-este-jueves/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ],
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "falsificación de instrumento público"
+            ]
+        },
+        {
+            "Caso": "Caso Penta",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Privado",
+            "Beneficiado": null,
+            "Perjudicado": "Privado",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Jovino Novoa, Carlos Alberto Délano",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 30100000000,
+            "Año": 2014,
+            "Año inicio": 2014,
+            "Año fin": null,
+            "Fuente": [],
+            "Delitos": {
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude tributario",
+                "emisión de facturas ideológicamente falsas"
+            ]
+        },
+        {
+            "Caso": "Caso Riggs (Pinochet)",
+            "Sector": "Derecha",
+            "Partido": null,
+            "Posición": "Presidente",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 26800000000,
+            "Año": 2014,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Sebastián Piñera (LAN)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Presidente",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Sebastián Piñera",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": "multa",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 19840000000,
+            "Año": 2006,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://interferencia.cl/articulos/tres-graves-casos-de-corrupcion-en-que-latam-se-ha-visto-envuelta-en-su-historia-reciente"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Violación de secretos"
+                ]
+            },
+            "Delitos detalle": [
+                "compra de acciones con información privilegiada"
+            ]
+        },
+        {
+            "Caso": "Pinocheques",
+            "Sector": "Derecha",
+            "Partido": null,
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Augusto Pinochet",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": "impunidad",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 18400000000,
+            "Año": 1989,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://es.wikipedia.org/wiki/Pinocheques"
+            ],
+            "Delitos": {
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ],
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "fraude tributario",
+                "uso de pasaportes falsos"
+            ]
+        },
+        {
+            "Caso": "Caso SQM",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Privado",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": "Financiamiento político",
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 12000000000,
+            "Año": 2015,
+            "Año inicio": 2015,
+            "Año fin": 2018,
+            "Fuente": [
+                "https://www.chiletransparente.cl/caso-sqm/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Soborno"
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "financiamiento irregular de políticos",
+                "emisión de boletas ideológicamente falsas"
+            ]
+        },
+        {
+            "Caso": "Exalcalde de Talca (Juan Castro)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Juan Castro",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 11000000000,
+            "Año": 2018,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.ciperchile.cl/2018/04/02/los-negocios-ilicitos-de-juan-castro-el-ex-alcalde-de-talca-que-llego-al-senado/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Cohecho",
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos",
+                "cohecho",
+                "negociación incompatible"
+            ]
+        },
+        {
+            "Caso": "Alcalde de San Joaquín (Sergio Echeverria)",
+            "Sector": "Centro",
+            "Partido": "PPD",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": "Sergio Echeverria",
+            "Comuna": "San Joaquín",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 10210000000,
+            "Año": 2021,
+            "Año inicio": 2017,
+            "Año fin": 2020,
+            "Fuente": [
+                "https://www.meganoticias.cl/nacional/402950-malversacion-10-mil-millones-educacion-sergio-echeverria-exalcalde-san-joaquin-19-01-2023.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "saldos no rendidos ni justificados"
+            ]
+        },
+        {
+            "Caso": "Alcaldesa de San Bernardo (Nora Cuevas)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Nora Cuevas",
+            "Comuna": "San Bernardo",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 9000000000,
+            "Año": 2017,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "malversación de recursos públicos",
+                "desfalco"
+            ]
+        },
+        {
+            "Caso": "Operación Tributos ",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": "Fisco",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 8713407156,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.aduana.cl/megafraude-tributario-investigacion-de-aduanas-fue-clave-para/aduana/2023-12-21/174405.html"
+            ],
+            "Delitos": {
+                "Crimen Organizado y lavado de dinero": [
+                    "Asociación Ilícita",
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "asociación ilícita",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Municipalidad de Las Condes (Daniela Peñaloza)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Daniela Peñaloza",
+            "Comuna": "Las Condes",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 8000000000,
+            "Año": 2024,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/la-tercera-pm/noticia/estafa-fraude-y-falsificacion-el-avance-en-la-investigacion-penal-en-las-condes-que-remece-a-la-administracion-penaloza/X7ZBPJAYLRA47LINUR5COTA5HY/",
+                "https://www.latercera.com/nacional/noticia/las-investigaciones-que-envuelven-al-municipio-de-las-condes-y-a-su-alcaldesa-daniela-penaloza/GYYWEXRFXNGJVKFJPOEWRQUB7I/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "asignación de horas extras"
+            ]
+        },
+        {
+            "Caso": "Fraude en el Ejército, Milicogate",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": "Fisco",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Óscar Izurieta, Juan Miguel Fuente-Alba, Humberto Oviedo",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 14300000000,
+            "Año": 2019,
+            "Año inicio": 2006,
+            "Año fin": 2018,
+            "Fuente": [
+                "https://es.wikipedia.org/wiki/Milicogate",
+                "https://www.latercera.com/la-tercera-domingo/noticia/el-metodo-rutherford-como-fueron-cayendo-uno-a-uno-los-comandantes-en-jefe-por-el-fraude-en-el-ejercito/IVKUSHEYJBDYHMSYZ4R3KZXQE4/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude fiscal",
+                "enriquecimiento ilícito"
+            ]
+        },
+        {
+            "Caso": "Alcaldesa de Lampa (Graciela Ortúzar Novoa)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Graciela Ortúzar Novoa",
+            "Comuna": "Lampa",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 6000000000,
+            "Año": 2018,
+            "Año inicio": 2008,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2022/01/31/presentan-querella-contra-exalcaldesa-de-lampa-por-millonaria-deuda-de-cotizaciones.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos",
+                "apropiación indebida"
+            ]
+        },
+        {
+            "Caso": "Caso Corpesca",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Senador",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Pablo Longueira, Jaime Orpis, Fulvio Rossi",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": "cárcel",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 4670000000,
+            "Año": 2012,
+            "Año inicio": 2009,
+            "Año fin": 2015,
+            "Fuente": [
+                "https://www.diarioconstitucional.cl/2021/04/17/detalles-del-caso-corpesca-tercer-tribunal-de-juicio-oral-en-lo-penal-de-santiago-condeno-al-exsenador-jaime-orpis-a-la-pena-unica-de-5-anos-y-un-dia-de-presidio-efectivo-en-calidad-de-autor-de-seis/",
+                "https://contracarga.cl/reportajes/caso-corpesca-explicado/",
+                "https://www.ciperchile.cl/2016/08/17/el-articulo-de-la-ley-de-pesca-que-le-ahorro-4-670-millones-a-corpesca/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "cohecho"
+            ]
+        },
+        {
+            "Caso": "Alcalde de La Florida (Rodolfo Carter)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Rodolfo Carter",
+            "Comuna": "La Florida",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 4600000000,
+            "Año": 2017,
+            "Año inicio": 2018,
+            "Año fin": 2020,
+            "Fuente": [
+                "https://www.elmostrador.cl/destacado/2023/02/06/los-2-500-millones-de-la-corporacion-municipal-de-la-florida-que-carter-no-termina-de-explicar/",
+                "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2023/01/27/detectan-diferencias-por-mas-de-4-600-millones-en-cuentas-bancarias-de-educacion-de-la-florida.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "malversación de fondos"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Vitacura (Raúl Torrealba)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Raúl Torrealba",
+            "Comuna": "Vitacura",
+            "Fundación": null,
+            "Conclusión": "prisión preventiva",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 4500000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/la-tercera-sabado/noticia/cientos-de-depositos-en-efectivo-y-una-cuenta-con-2300-millones-las-pruebas-que-complican-al-tronco-torrealba/LH674LXDYVBR3J5IDIFUCMRIXE/",
+                "https://www.ciperchile.cl/2023/05/20/caso-torrealba-detalles-de-gastos-de-campana-de-rn-que-fueron-financiados-con-dineros-de-vitacura/",
+                "https://www.elmostrador.cl/noticias/pais/2023/08/08/53-dias-tras-las-rejas-rechazan-solicitud-de-raul-torrealba-y-seguira-en-prision-preventiva/",
+                "https://www.latercera.com/nacional/noticia/vitacura-contraloria-objeta-mas-de-4500-millones-a-administracion-de-alcalde-torrealba-en-dos-anos/GK3X6GQBOVB5BFGOV4N52T3PXI/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Fraude al Fisco"
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos",
+                "fraude al fisco",
+                "emisión de boletas falsas"
+            ]
+        },
+        {
+            "Caso": "Alcalde Estación Central (Rodrigo Delgado)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Rodrigo Delgado",
+            "Comuna": "Estación Central ",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 4300000000,
+            "Año": 2020,
+            "Año inicio": 2015,
+            "Año fin": 2020,
+            "Fuente": [
+                "https://interferencia.cl/articulos/contraloria-realiza-sumario-en-estacion-central-por-deficit-de-4300-millones-detectado"
+            ],
+            "Delitos": {
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "déficit financiero"
+            ]
+        },
+        {
+            "Caso": "Alcalde de San Fernando (Luis Berwart)",
+            "Sector": "Ninguno",
+            "Partido": "Independiente",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Luis Berwart",
+            "Comuna": "San Fernando",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 4000000000,
+            "Año": 2024,
+            "Año inicio": 2012,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.elrancaguino.cl/2024/01/18/hasta-35-anos-de-carcel-y-el-pago-de-2-mil-millones-de-pesos-en-multas-arriesga-el-ex-alcalde-san-fernando-luis-berwart/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Soborno"
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "uso malicioso de instrumento mercantil",
+                "soborno"
+            ]
+        },
+        {
+            "Caso": "Caso Inverlink",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Privado",
+            "Beneficiado": null,
+            "Perjudicado": "Fisco",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 3000000000,
+            "Año": 2003,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/2015/01/24/cinco-casos-de-corrupcion-que-mancharon-la-politica-antes-de-penta-en-los-ultimos-15-anos.shtml",
+                "https://www.df.cl/aniversario/caso-inverlink-el-escandalo-que-amenazo-la-estabilidad-del-mercado"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Violación de secretos"
+                ]
+            },
+            "Delitos detalle": [
+                "tráfico de información confidencial para tomar posiciones en activos financieros"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Arica)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Arica",
+            "Fundación": "Fundación para el Desarrollo de las Organizaciones",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 2500000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/caso-convenios-ministerio-publico-indaga-traspasos-a-fundaciones-por-mas-de-14-mil-millones-en-ocho-regiones/XUWDKEDIWNDXTOU3RCMSIVQZE4/",
+                "https://www.emol.com/noticias/Nacional/2023/07/06/1100220/fundacion-el-desarrollo-de-organizaciones.html"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Arica (Gerardo Espíndola)",
+            "Sector": "Centro",
+            "Partido": "Liberal",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": "Gerardo Espíndola",
+            "Comuna": "Arica",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1100000000,
+            "Año": 2023,
+            "Año inicio": 2023,
+            "Año fin": 2024,
+            "Fuente": [
+                "https://www.meganoticias.cl/amp/nacional/442953-mantencion-de-areas-verdes-alcalde-de-arica-firmo-trato-directo-por-1100-millones-con-empresa-creada-14-dias-antes.html"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Rancagua (Juan Ramón Godoy)",
+            "Sector": "Izquierda",
+            "Partido": "PS",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Juan Ramón Godoy",
+            "Comuna": "Rancagua",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 2492000000,
+            "Año": 2022,
+            "Año inicio": 2020,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.latercera.com/earlyaccess/noticia/las-millonarias-transacciones-que-complican-al-alcalde-de-rancagua/GY4SPWLFPJDODKTTXDN7FR74B4/",
+                "https://radio.uchile.cl/2023/03/04/tras-allanamiento-a-alcalde-de-rancagua-expertos-en-transparencia-llaman-a-fortalecer-los-mecanismos-para-perseguir-la-corrupcion/",
+                "https://www.meganoticias.cl/nacional/442934-alcalde-rancagua-formalizacion-abril-delitos-corrupcion-juan-ramon-godoy-21-03-2024.html",
+                "https://www.cde.cl/cde-interpone-querella-criminal-contra-el-alcalde-de-rancagua-por-delitos-asociados-a-hechos-de-corrupcion/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación",
+                    "Cohecho"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "malversación de fondos públicos",
+                "cohecho",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Gobernador regional Araucanía (Luciano Rivas)",
+            "Sector": "Derecha",
+            "Partido": "Evópoli",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Luciano Rivas",
+            "Comuna": "La Araucanía",
+            "Fundación": "Fundación Local",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 2113000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.eldesconcierto.cl/opinion/2023/10/27/caso-convenios-corrupcion-en-la-derecha-supera-a-democracia-viva.html",
+                "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2024/01/07/imputado-en-arista-caso-convenios-gobernador-de-la-araucania-luciano-rivas-confirma-su-repostulacion.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "negociaciones incompatibles",
+                "tráfico de influencia",
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Rinconada (Juan Galdames)",
+            "Sector": "Derecha",
+            "Partido": "Independiente",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Juan Galdames",
+            "Comuna": "Rinconada",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 2000000000,
+            "Año": 2023,
+            "Año inicio": 2018,
+            "Año fin": 2019,
+            "Fuente": [
+                "https://www.cnnchile.com/pais/destitucion-alcalde-rinconada-contraloria-irregularidades_20230606/",
+                "https://munirinconada.cl/alcalde-juan-galdames-se-refiere-a-juicio-de-cuentas-que-ordena-la-restitucion-de-300-millones/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos públicos"
+            ]
+        },
+        {
+            "Caso": "Caso LarrainVial",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Privado",
+            "Beneficiado": "Privados",
+            "Perjudicado": null,
+            "Objetivo": "Enriquecimiento",
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1700000000,
+            "Año": 2013,
+            "Año inicio": 2013,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.chiletransparente.cl/caso-larrainvial/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "estafa"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Puerto Natales (Fernando Paredes)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Fernando Paredes",
+            "Comuna": "Puerto Natales",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1673754000,
+            "Año": 2019,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.ovejeronoticias.cl/2023/12/puerto-natales-ex-alcalde-udi-fernando-paredes-continua-con-reclusion-domiciliaria-total/",
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Cohecho",
+                    "Violación de secretos"
+                ]
+            },
+            "Delitos detalle": [
+                "cohecho",
+                "violación de secreto"
+            ]
+        },
+        {
+            "Caso": "Caso Luminarias",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Privado",
+            "Beneficiado": "Privados",
+            "Perjudicado": "Municipio",
+            "Objetivo": "Enriquecimiento",
+            "Estado": null,
+            "Responsable": "Francisco Javier Jara",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1659000000,
+            "Año": 2017,
+            "Año inicio": 2017,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.chiletransparente.cl/caso-luminarias/"
+            ],
+            "Delitos": {
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ],
+                "Corrupción": [
+                    "Cohecho"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "boletas ideológicamente falsas",
+                "cohecho",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Chinquihue, Los Lagos)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Los Lagos",
+            "Fundación": "Fundación Chinquihue",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1600000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.malaespinacheck.cl/pais/2023/08/04/fundacion-kimun-el-incumplido-contrato-por-1-200-millones/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Corporación de Desarrollo Social de Providencia",
+            "Sector": "Izquierda",
+            "Partido": "RD",
+            "Posición": "Funcionario municipal",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "Suspensión condicional de la causa",
+            "Responsable": "Mariano Rosenzvaig",
+            "Comuna": "Providencia",
+            "Fundación": null,
+            "Conclusión": "firma mensual, fijación de domicilio y deberá ofrecer una charla",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1600000000,
+            "Año": 2020,
+            "Año inicio": 2020,
+            "Año fin": 2022,
+            "Fuente": [
+                "https://www.t13.cl/noticia/politica/decretan-suspension-condicional-causa-malversacion-fondos-fundador-rd-21-12-2022"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos",
+                "aplicación pública diferente"
+            ]
+        },
+        {
+            "Caso": "Caso MOP-Gate",
+            "Sector": "Izquierda",
+            "Partido": "PPD, PS, PR",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1253000000,
+            "Año": 2000,
+            "Año inicio": 1997,
+            "Año fin": 2000,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/2015/01/24/cinco-casos-de-corrupcion-que-mancharon-la-politica-antes-de-penta-en-los-ultimos-15-anos.shtml",
+                "https://es.wikipedia.org/wiki/Corrupción_en_Chile#El_caso_MOP-GATE"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Convenios (El Canelo de Nos, Los Lagos)",
+            "Sector": null,
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Los Lagos",
+            "Fundación": "Fundación El Canelo de Nos",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1200000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.malaespinacheck.cl/pais/2023/08/04/fundacion-kimun-el-incumplido-contrato-por-1-200-millones/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Convenios (Kimün, Los Lagos)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Los Lagos",
+            "Fundación": "Fundación Kimün",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1200000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.malaespinacheck.cl/pais/2024/01/03/los-14-detenidos-en-todo-chile-por-el-caso-convenios/",
+                "https://www.malaespinacheck.cl/pais/2023/08/04/fundacion-kimun-el-incumplido-contrato-por-1-200-millones/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Municipalidad de Río Bueno (Carolina Silva)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Carolina Silva",
+            "Comuna": "Río Bueno",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1100000000,
+            "Año": 2022,
+            "Año inicio": 2015,
+            "Año fin": 2023,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2023/12/10/justicia-admite-querella-contra-alcaldesa-de-rio-bueno-por-malversacion-de-caudales-y-fraude-al-fisco.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude de subvenciones estatales"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Algarrobo (José Luis Yáñez)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "José Luis Yáñez",
+            "Comuna": "Algarrobo",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1000000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/detenido-el-alcalde-de-algarrobo-se-entrego-frente-a-un-motel/2023-11-23/072824.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos",
+                "cohecho"
+            ]
+        },
+        {
+            "Caso": "Caso ChileDeportes",
+            "Sector": "Izquierda",
+            "Partido": "PPD",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 946000000,
+            "Año": 2006,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/2015/01/24/cinco-casos-de-corrupcion-que-mancharon-la-politica-antes-de-penta-en-los-ultimos-15-anos.shtml"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Fraude en el Ejército, arista Comercializadora CM",
+            "Sector": null,
+            "Partido": null,
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Antonio Cordero Kher, Luis Reyes Álvarez, Alex Gluzman Comte",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 847807917,
+            "Año": 2024,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/chile/2024/03/19/milicogate-dictan-procesamiento-contra-general-y-coroneles-r-por-presunto-fraude-de-519-millones.shtml"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Sagrada Familia (Martín Arriagada Urrutia)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "Sentencia",
+            "Responsable": "Martín Arriagada Urrutia",
+            "Comuna": "Sagrada Familia",
+            "Fundación": null,
+            "Conclusión": "Sentenciado a tres años de presidio",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 750000000,
+            "Año": 2023,
+            "Año inicio": 2014,
+            "Año fin": 2015,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/alcalde-de-sagrada-familia-es-sentenciado-a-tres-anos-de-presidio-por-defraudar-al-fisco-en-casi-750-millones/SXIJNZPP6ZBWVNLVXVX22XK4NM/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Lo Barnechea (Felipe Guevara)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Felipe Guevara",
+            "Comuna": "Lo Barnechea",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 680000000,
+            "Año": 2018,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.meganoticias.cl/nacional/403342-contraloria-cifra-en-680-millones-posible-fraude-al-fisco-bajo-el-mandato-del-exintendente-guevara.html",
+                "https://cronicas.americatransparente.org/los-otros-programas-vita-41-mil-millones-transferidos-a-entidades-privadas-de-lo-barnechea/",
+                "https://cooperativa.cl/noticias/pais/politica/contraloria-envio-a-fiscalia-caso-de-millonarios-contratos-con/2023-01-23/152629.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Fraude al Fisco"
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos",
+                "fraude al fisco",
+                "emisión de boletas falsas"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios, caso manicure (Araucanía)",
+            "Sector": "Derecha",
+            "Partido": "Evópoli",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Rinet Ortiz, Juvenal Ortiz",
+            "Comuna": "La Araucanía",
+            "Fundación": "Fundaciones Folab y Educc.",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 658000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/caso-convenios-ministerio-publico-indaga-traspasos-a-fundaciones-por-mas-de-14-mil-millones-en-ocho-regiones/XUWDKEDIWNDXTOU3RCMSIVQZE4/",
+                "https://radio.uchile.cl/2023/11/18/cde-se-querello-contra-fundaciones-en-la-araucania-por-fraude-al-gore/",
+                "https://www.malaespinacheck.cl/pais/2023/12/29/caso-manicure/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "administración desleal",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Urbanismo Social)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": null,
+            "Comuna": "Maule",
+            "Fundación": "Fundación Urbanismo Social",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 577000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2024/03/11/pdi-allano-gobernacion-del-maule-en-medio-de-investigaciones-por-traspasos-a-urbanismo-social.shtml",
+                "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2024/03/12/caso-convenios-jefe-de-control-interno-del-gore-maule-declaro-por-traspasos-a-urbanismo-social.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Melipilla (Iván Campos)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Iván Campos",
+            "Comuna": "Melipilla",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 497000000,
+            "Año": 2020,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.eldesconcierto.cl/reportajes/2024/01/23/municipio-se-querella-por-multa-de-500-millones-acusan-a-exalcalde-de-melipilla-por-fraude-al-fisco.html",
+                "https://www.latercera.com/nacional/noticia/municipalidad-de-melipilla-presenta-querella-por-fraude-al-fisco-contra-el-exalcalde-ivan-campos/P6XRT2X73NAHJIEMIZWPRX6VEU/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Caso SQM (Claudio Eguiluz)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Claudio Eguiluz",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 465000000,
+            "Año": 2019,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elmostrador.cl/noticias/pais/2019/05/05/las-vueltas-de-la-vida-rn-elige-a-claudio-eguiluz-condenado-por-caso-sqm-como-su-presidente-regional-en-el-biobio/"
+            ],
+            "Delitos": {
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "emisión de boletas falsas"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Democracia Viva)",
+            "Sector": "Izquierda",
+            "Partido": "RD",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Daniel Andrade, Carlos Contreras",
+            "Comuna": "Antofagasta",
+            "Fundación": "Democracia Viva",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 426000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/caso-convenios-ministerio-publico-indaga-traspasos-a-fundaciones-por-mas-de-14-mil-millones-en-ocho-regiones/XUWDKEDIWNDXTOU3RCMSIVQZE4/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Fundación Coigue)",
+            "Sector": "Derecha",
+            "Partido": "Evópoli, UDI",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Luciano Rivas, Claudia\nLillo, Sebastián\nNaveillán",
+            "Comuna": "La Araucanía",
+            "Fundación": "Fundación Coigue",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 421000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://radionuevomundo.cl/2023/07/18/gobernador-rivas-suma-al-caso-fundacion-local-traspasos-arbitrarios-a-coihue-y-a-universidades-de-la-araucania/",
+                "https://www.elciudadano.com/actualidad/el-entramado-de-ilicitos-de-platas-que-exploto-en-el-gore-araucania-y-que-repercute-en-renovacion-nacional/12/29/",
+                "https://resumen.cl/articulos/la-derecha-de-la-araucania-en-el-caso-fundaciones-las-irregularidades-de-espacio-coigue-que-llevaron-al-ministerio-de-justicia-a-solicitar-su-cierre"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "adjudicación de fondos a fundación sin experiencia ni giro adecuado"
+            ]
+        },
+        {
+            "Caso": "Caso Motorola (Katherine Martorell)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Subsecretario",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Katherine Martorell",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 400000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elmostrador.cl/dia/2023/03/31/exsubsecretaria-martorell-declaro-como-imputada-por-corrupcion-en-caso-motorola/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Bonhomía)",
+            "Sector": "Derecha",
+            "Partido": "Republicanos",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Biobío",
+            "Fundación": "Fundación Bonhomía",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 356000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2024/03/13/caso-convenios-allanan-empresa-que-facturo-356-millones-en-convenios-del-gore-bio-bio-y-bonhomia.shtml",
+                "https://resumen.cl/articulos/fundacion-contrato-con-dineros-del-gore-biobio-a-empresas-de-coordinador-de-programa-y-a-firma-donde-trabaja-su-hermano-y-su-madre-excandidata-republicana",
+                "https://cooperativa.cl/noticias/pais/region-del-biobio/detienen-a-lider-de-empresa-en-allanamiento-por-caso-convenios-pdi/2024-03-13/123002.html"
+            ],
+            "Delitos": {
+                "Otros": [
+                    null
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ]
+            },
+            "Delitos detalle": [
+                "ejecución incompleta de programa",
+                "facturas",
+                "boletas sin respaldo"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Guaitecas (Cristian Alvarado Oyarzo)",
+            "Sector": "Derecha",
+            "Partido": "Independiente",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "Sentencia",
+            "Responsable": "Cristian Alvarado Oyarzo",
+            "Comuna": "Guaitecas",
+            "Fundación": null,
+            "Conclusión": "10 años de presidio",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 351000000,
+            "Año": 2021,
+            "Año inicio": 2013,
+            "Año fin": 2016,
+            "Fuente": [
+                "http://www.fiscaliadechile.cl/Fiscalia/sala_prensa/noticias_regional_det.do?id=22739",
+                "https://resumen.cl/articulos/exalcalde-pasara-10-anos-en-carcel-por-apropiarse-de-351-millones-de-la-municipalidad-y-de-empresa-electrica"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos públicos"
+            ]
+        },
+        {
+            "Caso": "Gastos electorales Comunes (Karina Oliva)",
+            "Sector": "Izquierda",
+            "Partido": "Comunes",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Karina Oliva",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 293093681,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.24horas.cl/actualidad/politica/que-se-le-acusa-a-karina-oliva-emitir-boletas-falsas-defraudar-290-millones"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude de subvenciones"
+            ]
+        },
+        {
+            "Caso": "Caso Subvenciones",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Ministro",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Franka Grez",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 290000000,
+            "Año": 2006,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.fastcheck.cl/2021/11/18/yasna-provoste-se-robo-600-millones-de-dolares-del-ministerio-de-educacion-falso/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos públicos"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Valparaíso (Jorge Castro)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Jorge Castro",
+            "Comuna": "Valparaíso",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 289350646,
+            "Año": 2018,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "malversación de fondos"
+            ]
+        },
+        {
+            "Caso": "Caso San Ramón",
+            "Sector": "Izquierda",
+            "Partido": "PS",
+            "Posición": "Alcalde",
+            "Beneficiado": "Político",
+            "Perjudicado": "Municipio",
+            "Objetivo": "Enriquecimiento",
+            "Estado": null,
+            "Responsable": "Miguel Ángel Aguilera",
+            "Comuna": "San Ramón",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 283000000,
+            "Año": 2017,
+            "Año inicio": 2012,
+            "Año fin": 2017,
+            "Fuente": [
+                "https://www.ciperchile.cl/2021/06/04/los-millonarios-pagos-al-alcalde-aguilera-y-los-testimonios-de-sus-subordinados-que-lo-tienen-al-borde-del-precipicio/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Cohecho",
+                    "Soborno"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "enriquecimiento ilícito",
+                "lavado de activos",
+                "cohecho",
+                "soborno"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (RedCultivarte)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Biobío",
+            "Fundación": "ONG RedCultivarte",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 274000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/caso-convenios-ministerio-publico-indaga-traspasos-a-fundaciones-por-mas-de-14-mil-millones-en-ocho-regiones/XUWDKEDIWNDXTOU3RCMSIVQZE4/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Corpesca (Jaime Orpis)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Jaime Orpis",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 264254000,
+            "Año": 2021,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://radio.uchile.cl/2021/04/16/a-la-carcel-ex-senador-udi-jaime-orpis-es-condenado-a-prision-por-cohecho-y-fraude-al-fisco/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "cohecho"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios, arista lencería (Camila Polizzi)",
+            "Sector": "Izquierda",
+            "Partido": "Independiente",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Camila Polizzi, Diego Polanco",
+            "Comuna": "Biobío",
+            "Fundación": "Fundación En tí",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 250000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://radio.uchile.cl/2023/11/28/755094/",
+                "https://elpais.com/chile/2023-08-05/caso-lenceria-la-telenovelesca-arista-de-la-trama-de-corrupcion-que-hace-temblar-la-politica-chilena.html",
+                "https://www.malaespinacheck.cl/pais/2024/01/03/los-14-detenidos-en-todo-chile-por-el-caso-convenios/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ],
+                "Otros": [
+                    null
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "estafa",
+                "falsificación de documento oficial",
+                "usurpación de identidad",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Puente Alto (Germán Codina)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Germán Codina",
+            "Comuna": "Puente Alto",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 203000000,
+            "Año": 2018,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.ciperchile.cl/2023/05/10/caso-itelecom-detectan-66-pagos-en-efectivo-a-principal-asesor-de-german-codina-por-203-millones/",
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Mostazal (Sergio Medel)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Sergio Medel",
+            "Comuna": "Mostazal",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 200000000,
+            "Año": 2022,
+            "Año inicio": 2008,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://eltipografo.cl/2022/08/presentan-nueva-querella-por-fraude-al-fisco-contra-ex-alcalde-de-mostazal-sergio-medel-a",
+                "https://eltipografo.cl/2023/03/deficit-de-8-mil-millones-en-el-municipio-y-querellas-por-fraude-al-fisco-enfrenta-ex-alcalde-de-mostazal",
+                "https://www.biobiochile.cl/noticias/nacional/region-de-ohiggins/2022/08/11/municipio-prepara-querellas-tras-millonarias-irregularidades-en-san-francisco-de-mostazal.shtml"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Calama (Daniel Agusto Pérez)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Daniel Agusto Pérez",
+            "Comuna": "Calama",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 190000000,
+            "Año": 2024,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.malaespinacheck.cl/pais/2024/01/29/quien-es-daniel-agusto-perez-el-exalcalde-formalizado-por-fraude-al-fisco/",
+                "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2024/01/24/son-11-casos-de-karen-rojo-formalizaron-a-exdelegado-de-pinera-en-antofagasta-por-fraude-al-fisco.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Santiago (Felipe Alessandri)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Felipe Alessandri",
+            "Comuna": "Santiago",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 188000000,
+            "Año": 2021,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "pagos de horas extra",
+                "pagos de honorarios"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Ñuñoa (Andrés Zarhi)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "Formalizado",
+            "Responsable": "Andrés Zarhi",
+            "Comuna": "Ñuñoa",
+            "Fundación": null,
+            "Conclusión": "arresto domiciliario nocturno, arraigo nacional",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 176000000,
+            "Año": 2024,
+            "Año inicio": 2015,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/exalcalde-de-nunoa-andres-zarhi-queda-con-arresto-domiciliario-nocturno-tras-formalizacion-por-fraude-al-fisco/64LJ53FVUJA4BIGCC4DMKIJWRU/",
+                "https://www.emol.com/noticias/Nacional/2024/02/27/1123065/decretan-arresto-domiciliario-nocturno-andreszarhi.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Linares (Mario Meza)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "Formalizado",
+            "Responsable": "Mario Meza Vásquez",
+            "Comuna": "Linares",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": true,
+            "Condena": null,
+            "Monto": 139739316,
+            "Año": 2020,
+            "Año inicio": 2016,
+            "Año fin": 2020,
+            "Fuente": [
+                "https://cooperativa.cl/noticias/pais/region-del-maule/contraloria-ordeno-sumarios-contra-municipio-de-linares-rincon-acusa/2022-06-22/174906.html",
+                "https://www.latercera.com/nacional/noticia/fijan-audiencia-de-formalizacion-para-mario-meza-rn-alcalde-de-linares-por-fraude-al-fisco-reiterado/KZJ7PGAQZFD7ZBI77BS4TXKYNI/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Convenios (Atacama)",
+            "Sector": "Izquierda",
+            "Partido": "DC, PRO",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Atacama",
+            "Fundación": "Fundación Comprometidos",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 128000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/caso-convenios-ministerio-publico-indaga-traspasos-a-fundaciones-por-mas-de-14-mil-millones-en-ocho-regiones/XUWDKEDIWNDXTOU3RCMSIVQZE4/",
+                "https://www.meganoticias.cl/nacional/420687-nexos-politicos-gore-arica-fundacion-comprometidos-280-millones-25-7-2023.html"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Administrador municipal de Viña del Mar",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Funcionario municipal",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Claudio Boisier",
+            "Comuna": "Viña del Mar",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 104000000,
+            "Año": 2024,
+            "Año inicio": 2015,
+            "Año fin": 2018,
+            "Fuente": [
+                "https://www.theclinic.cl/2024/02/27/pdi-acorrala-al-circulo-de-virginia-reginato-udi-acusa-a-exadministrador-municipal-de-millonarios-gastos-en-restaurantes-y-licorerias/",
+                "https://www.soychile.cl/valparaiso/sociedad/2024/01/22/844669/formalizacion-vina-boisier-fisco-reacciones.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcalde suplente de Tierra Amarilla (Mario Morales)",
+            "Sector": "Izquierda",
+            "Partido": "PS",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "Prisión preventiva",
+            "Responsable": "Mario Morales",
+            "Comuna": "Tierra Amarilla",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 102000000,
+            "Año": 2020,
+            "Año inicio": 2016,
+            "Año fin": 2020,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/nacional/region-de-atacama/2020/08/01/alcalde-suplente-tierra-amarilla-quedo-prision-preventiva-tras-formalizacion-fraudes.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Cohecho",
+                    "Soborno"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "cohecho",
+                "soborno"
+            ]
+        },
+        {
+            "Caso": "Ex administrador municipal de Tierra Amarilla",
+            "Sector": "Centro",
+            "Partido": "DC",
+            "Posición": "Funcionario municipal",
+            "Beneficiado": "Alcalde",
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "Condena",
+            "Responsable": "Jaime Bahamondes Cabrera",
+            "Comuna": "Tierra Amarilla",
+            "Fundación": null,
+            "Conclusión": "presidio, prohibición de cargo público, multa",
+            "Sentencia": true,
+            "Condena": true,
+            "Monto": 80069002,
+            "Año": 2023,
+            "Año inicio": 2022,
+            "Año fin": 2023,
+            "Fuente": [
+                "https://www.diarioconstitucional.cl/2023/06/20/ex-administrador-municipal-que-aprobo-el-financiamiento-para-que-alcalde-concejales-y-funcionarios-publicos-de-tierra-amarilla-emprendieran-viaje-turistico-a-la-habana-y-varadero-incurre-en-el-delit/",
+                "https://www.cde.cl/cde-valora-condena-a-exadministrador-municipal-de-tierra-amarilla-en-caso-concejales-on-tour/#:~:text=(23.03.2023) El Tribunal,el marco del caso denominado"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Caso Penta (Pablo Wagner)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Subsecretario",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Pablo Wagner",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 66000000,
+            "Año": 2018,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.latercera.com/politica/noticia/caso-penta-ex-subsecretario-pablo-wagner-condenado-delitos-tributarios-absuelto-cohecho/233126/"
+            ],
+            "Delitos": {
+                "Delitos Económicos": [
+                    "Delitos Tributarios"
+                ],
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "delitos tributarios",
+                "enriquecimiento ilícito"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Las Condes (Joaquín Lavín)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Joaquín Lavín Infante",
+            "Comuna": "Las Condes",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 59595096,
+            "Año": 2020,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Ceresita",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Privado",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Recoleta",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 40000000,
+            "Año": 1993,
+            "Año inicio": 1993,
+            "Año fin": 2013,
+            "Fuente": [
+                "https://www.chiletransparente.cl/caso-ceresita/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de San Fernando (Juan Paulo Molina)",
+            "Sector": "Centro",
+            "Partido": "DC",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Juan Paulo Molina",
+            "Comuna": "San Fernando",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 37550000,
+            "Año": 2023,
+            "Año inicio": 2018,
+            "Año fin": 2021,
+            "Fuente": [
+                "https://www.diarioviregion.cl/index.php/noticias/27551-ex-alcalde-de-san-fernando-juan-paulo-molina-condenado-por-fraude-al-fisco-reiterado"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco reiterado"
+            ]
+        },
+        {
+            "Caso": "Caso Coimas",
+            "Sector": "Izquierda",
+            "Partido": "PR, DC",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Patricio Tombolini",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": "presidio",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 35000000,
+            "Año": 2002,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/2015/01/24/cinco-casos-de-corrupcion-que-mancharon-la-politica-antes-de-penta-en-los-ultimos-15-anos.shtml",
+                "https://es.wikipedia.org/wiki/Caso_Coimas"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "cohecho"
+            ]
+        },
+        {
+            "Caso": "Alcaldesa de Providencia (Josefa Errázuriz)",
+            "Sector": "Izquierda",
+            "Partido": "PPD",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "Responsable pero sin condena",
+            "Responsable": "Josefa Errázuriz",
+            "Comuna": "Providencia",
+            "Fundación": null,
+            "Conclusión": "Sin condena por prescripción",
+            "Sentencia": true,
+            "Condena": false,
+            "Monto": 31000000,
+            "Año": 2019,
+            "Año inicio": 2017,
+            "Año fin": 2019,
+            "Fuente": [
+                "https://www.latercera.com/reportajes/noticia/la-excesiva-demora-contraloria-salvo-josefa-errazuriz/613135/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "pago de horas extra"
+            ]
+        },
+        {
+            "Caso": "Claudia Nogueira ",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Diputado",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Claudia Nogueira ",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 30000000,
+            "Año": 2009,
+            "Año inicio": 2009,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.ciperchile.cl/2009/06/12/fiscalia-decide-formalizar-a-diputada-nogueira-e-investiga-pagos-de-la-camara-a-asesores/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Main, alcaldesa de Antofagasta (Karen Rojo)",
+            "Sector": "Derecha",
+            "Partido": "Independiente",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "Condena",
+            "Responsable": "Karen Rojo",
+            "Comuna": "Antofagasta",
+            "Fundación": null,
+            "Conclusión": "condenada a cinco años y un día de presidio mayor en su grado mínimo",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 24000000,
+            "Año": 2022,
+            "Año inicio": 2015,
+            "Año fin": 2016,
+            "Fuente": [
+                "https://cooperativa.cl/noticias/pais/region-de-antofagasta/ex-alcaldesa-karen-rojo-condenada-a-cinco-anos-de-carcel-por-fraude-al/2022-03-24/135330.html",
+                "https://cooperativa.cl/noticias/pais/region-de-antofagasta/suprema-rechazo-recurso-de-nulidad-y-karen-rojo-debera-cumplir-pena-en/2022-03-23/155942.html",
+                "https://chile.as.com/actualidad/detencion-de-karen-rojo-a-que-partido-pertenecia-cuanto-dinero-robo-y-por-que-estaba-en-holanda-n/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Caso EFE",
+            "Sector": "Centro",
+            "Partido": "DC",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Luis Ajenjo",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 23671000,
+            "Año": 2008,
+            "Año inicio": 2004,
+            "Año fin": 2006,
+            "Fuente": [
+                "https://www.biobiochile.cl/noticias/2015/01/24/cinco-casos-de-corrupcion-que-mancharon-la-politica-antes-de-penta-en-los-ultimos-15-anos.shtml",
+                "https://www.emol.com/noticias/nacional/2014/10/23/686503/caso-efe-corte-ratifica-condena-en-contra-de-luis-ajenjo-por-fraude-al-fisco.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco"
+            ]
+        },
+        {
+            "Caso": "Alcaldesa de Recoleta (Sol Letelier)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": "Campaña política",
+            "Perjudicado": "Municipio",
+            "Objetivo": "Campaña política",
+            "Estado": null,
+            "Responsable": "Sol Letelier",
+            "Comuna": "Recoleta",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 22917478,
+            "Año": 2013,
+            "Año inicio": 2008,
+            "Año fin": 2012,
+            "Fuente": [
+                "https://www.eldinamo.cl/pais/2013/08/28/sol-letelier-uso-23-millones-de-pesos-de-recoleta-para-su-campana-municipal/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de fondos"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Recoleta (Daniel Jadue)",
+            "Sector": "Izquierda",
+            "Partido": "PC",
+            "Posición": "Alcalde",
+            "Beneficiado": "Partido",
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": "Daniel Jadue",
+            "Comuna": "Recoleta",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 20000000,
+            "Año": 2023,
+            "Año inicio": 2023,
+            "Año fin": 2024,
+            "Fuente": [
+                "https://www.emol.com/noticias/Nacional/2023/11/15/1112897/daniel-jadue-declaracion-farmacias-populares.html",
+                "https://www.biobiochile.cl/noticias/nacional/chile/2024/04/02/fiscalia-formalizara-a-daniel-jadue-por-cohecho-administracion-desleal-fraude-al-fisco-y-estafa.shtml"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Cohecho",
+                    "Fraude al Fisco"
+                ]
+            },
+            "Delitos detalle": [
+                "cohecho",
+                "fraude al fisco",
+                "estafa",
+                "administración desleal"
+            ]
+        },
+        {
+            "Caso": "Alcalde de Ñuñoa (Pedro Sabat)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Pedro Sabat",
+            "Comuna": "Ñuñoa",
+            "Fundación": null,
+            "Conclusión": "sentencia",
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 15700000,
+            "Año": 2015,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.elciudadano.com/politica/los-18-emblematicos-alcaldes-corruptos-de-la-derecha-historias-de-un-tsunami-delictual/06/22/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Alcalde de Buin (Miguel Araya)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": "Municipio",
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": "Miguel Araya",
+            "Comuna": "Buin",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 10333332,
+            "Año": 2024,
+            "Año inicio": 2024,
+            "Año fin": 2024,
+            "Fuente": [
+                "https://www.elciudadano.com/actualidad/aumenta-la-lista-de-alcaldes-udi-vinculados-a-delitos-de-cuello-y-corbata-miguel-araya-sera-formalizado-el-proximo-6-de-marzo/02/21/",
+                "https://estapasando.cl/reformalizan-por-nuevos-delitos-a-alcalde-de-buin-udi/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Malversación"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "enriquecimiento ilícito",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios, División de Fomento e Industria (Araucanía)",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Susan Alarcón",
+            "Comuna": "La Araucanía",
+            "Fundación": "Fundaciones Folab y Educc.",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 9000000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.malaespinacheck.cl/pais/2024/01/03/los-14-detenidos-en-todo-chile-por-el-caso-convenios/",
+                "https://www.elciudadano.com/actualidad/el-entramado-de-ilicitos-de-platas-que-exploto-en-el-gore-araucania-y-que-repercute-en-renovacion-nacional/12/29/",
+                "https://elperiodico.cl/contraloria-corrobora-participacion-de-exfuncionaria-del-gore-araucania-en-comision-que-aprobo-proyecto-de-fundacion-que-posteriormente-la-contrato/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco reiterado",
+                "cohecho"
+            ]
+        },
+        {
+            "Caso": "Caso Convenios (Enlace Urbano)",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Fundación",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": null,
+            "Comuna": "Atacama",
+            "Fundación": "Fundación Enlace Urbano",
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 1022000,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": null,
+            "Fuente": [
+                "https://www.emol.com/noticias/Nacional/2024/02/20/1122268/contraloria-caso-convenios-minvu-serviu.html",
+                "https://www.ex-ante.cl/confidencial-las-47-fundaciones-indagadas-por-justicia-en-el-caso-convenios/"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        },
+        {
+            "Caso": "Caso Hermosilla/Caso Audios",
+            "Sector": "Derecha",
+            "Partido": "RN",
+            "Posición": null,
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": "En investigación",
+            "Responsable": "Luis Hermosilla, Sergio Muñoz, Andrés Chadqick",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 239000000,
+            "Año": 2024,
+            "Año inicio": 2018,
+            "Año fin": 2022,
+            "Fuente": [
+                "https://www.latercera.com/opinion/noticia/columna-de-daniel-matamala-cual-elefante/EOAKP2PXWJHSFDBAKRXGVVS5ZA/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Violación de secretos",
+                    "Malversación"
+                ]
+            },
+            "Delitos detalle": [
+                "filtración de información secreta",
+                "asesorías jurídicas por trato directo"
+            ]
+        },
+        {
+            "Caso": "Director general de PDI, Héctor Espinosa",
+            "Sector": "Ninguno",
+            "Partido": null,
+            "Posición": "Policía de Investigaciones",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Héctor Espinosa",
+            "Comuna": null,
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": 146000000,
+            "Año": 2021,
+            "Año inicio": 2015,
+            "Año fin": 2017,
+            "Fuente": [
+                "https://www.latercera.com/nacional/noticia/formalizan-a-exdirector-general-de-la-pdi-hector-espinosa-fiscalia-le-imputa-apropiacion-de-dineros-de-gastos-reservados-de-la-institucion/IBGS7P3IPVGU3MQU4A7GJDH4UA/",
+                "https://www.chvnoticias.cl/exclusivo-chv/todas-las-pruebas-fiscalia-hector-espinosa-pdi_20220828/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación"
+                ],
+                "Otros": [
+                    null
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero"
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos",
+                "falsificación de instrumento público",
+                "lavado de activos"
+            ]
+        },
+        {
+            "Caso": "Caso Luminarias: concejal de Iquique (Felipe Arenas)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Concejal",
+            "Beneficiado": "Personal",
+            "Perjudicado": "Municipio",
+            "Objetivo": "Enriquecimiento",
+            "Estado": "Condena",
+            "Responsable": "Felipe Arenas",
+            "Comuna": "Iquique",
+            "Fundación": null,
+            "Conclusión": "3 años y un día y 718 días de presidio, con el beneficio de la libertad vigilada intensiva",
+            "Sentencia": true,
+            "Condena": true,
+            "Monto": 500000000,
+            "Año": 2024,
+            "Año inicio": 2016,
+            "Año fin": 2018,
+            "Fuente": [
+                "https://www.latercera.com/campuslt/noticia/luminarias-juzgado-de-garantia-de-iquique-condena-a-exconcejal-felipe-arenas-por-fraude-al-fisco-y-cohecho/OR3BBHZLARCULI7J5A22A66CSU/",
+                "https://iquiquetv.cl/2024/07/02/caso-luminarias-led-condenan-a-ex-concejal-felipe-arenas-por-cohecho-y-fraude-al-fisco/"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Fraude al Fisco",
+                    "Cohecho"
+                ]
+            },
+            "Delitos detalle": [
+                "fraude al fisco",
+                "cohecho reiterado"
+            ]
+        },
+        {
+            "Caso": "Caso Cuentas Corrientes, alcalde de San Ignacio (César Figueroa)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "César Figueroa",
+            "Comuna": "San Ignacio",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": null,
+            "Año": 2023,
+            "Año inicio": 2021,
+            "Año fin": 2023,
+            "Fuente": [
+                "https://www.t13.cl/noticia/nacional/prision-preventiva-alcalde-san-ignacio-cesar-figueroa-corrupcion-18-4-2023",
+                "https://www.elmostrador.cl/dia/2023/04/18/alcalde-de-san-ignacio-cesar-figueroa-sera-formalizado-por-delitos-de-corrupcion/",
+                "https://www.meganoticias.cl/nacional/415393-cuentas-corrientes-empresario-acusado-pagar-sobornos-involucra-fraude-70-municipios-28-05-2023.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Cohecho",
+                    "Fraude al Fisco",
+                    "Malversación"
+                ],
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "cohecho",
+                "falsificación de instrumento público",
+                "fraude al fisco",
+                "malversación"
+            ]
+        },
+        {
+            "Caso": "Caso Cuentas Corrientes, alcalde de Ñiquén (Manuel Pino)",
+            "Sector": "Derecha",
+            "Partido": "UDI",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Manuel Pino",
+            "Comuna": "Ñiquén",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": null,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": 2023,
+            "Fuente": [
+                "https://www.cooperativa.cl/noticias/pais/region-de-nuble/pdi-detuvo-al-alcalde-de-niquen-por-delitos-de-corrupcion/2023-04-19/112634.html"
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Malversación",
+                    "Cohecho",
+                    "Soborno"
+                ],
+                "Otros": [
+                    null
+                ]
+            },
+            "Delitos detalle": [
+                "malversación de caudales públicos",
+                "falsificación de instrumento público",
+                "cohecho",
+                "soborno"
+            ]
+        },
+        {
+            "Caso": "Caso Cuentas Corrientes, alcalde de Bulnes, (Guillermo Yeber)",
+            "Sector": "Centro",
+            "Partido": "DC",
+            "Posición": "Alcalde",
+            "Beneficiado": null,
+            "Perjudicado": null,
+            "Objetivo": null,
+            "Estado": null,
+            "Responsable": "Guillermo Yeber",
+            "Comuna": "Bulnes",
+            "Fundación": null,
+            "Conclusión": null,
+            "Sentencia": null,
+            "Condena": null,
+            "Monto": null,
+            "Año": 2023,
+            "Año inicio": null,
+            "Año fin": 2023,
+            "Fuente": [
+                "https://www.emol.com/noticias/Nacional/2024/02/15/1121826/caso-cuentas-corrientes.html"
+            ],
+            "Delitos": {},
+            "Delitos detalle": []
+        }
+    ]
+}
