@@ -3,7 +3,6 @@
         "country": "Chile",
         "currency": "Chilean Peso (CLP)",
         "inflation readjustment reference date": "2024-06",
-        "crimes classification": {},
         "categorical classes": {
             "Sector": [
                 "Derecha",
@@ -12,20 +11,20 @@
                 "Izquierda"
             ],
             "Partido": [
-                "PRO",
-                "PC",
-                "UDI",
-                "PR",
                 "RN",
-                "Evópoli",
-                "Republicanos",
-                "PPD",
+                "Independiente",
                 "Liberal",
+                "PPD",
+                "Evópoli",
                 "PS",
+                "Republicanos",
+                "PC",
                 "DC",
-                "Comunes",
+                "UDI",
                 "RD",
-                "Independiente"
+                "PRO",
+                "Comunes",
+                "PR"
             ],
             "Posición": [
                 "Alcalde",
