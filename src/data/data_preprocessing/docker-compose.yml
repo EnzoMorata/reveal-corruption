@@ -1,0 +1,18 @@
+services:
+  jupyter:
+    user: root
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    container_name: jupyter
+    volumes:
+      - ./../original_data:/home/enzo/work/original_data
+      - ./../modified_data:/home/enzo/work/modified_data
+      - ./../preprocessed_data:/home/enzo/work/preprocessed_data
+      - ./jupyter_notebooks:/home/enzo/work/jupyter_notebooks
+    ports:
+      - 8888:8888
+    environment:
+      - NB_USER=enzo
+      - CHOWN_HOME=yes
+      - CHOWN_HOME_OPTS=-R

@@ -1,5 +1,8 @@
-# reveal-corruption
-Personal project about an Information Visualization Tool about corruption cases in Chile
+# Reveal Corruption
+
+Personal project about an Information Visualization Tool focused on corruption cases in Chile. This project was born from my motivation to contribute to transparency, a relevant aspect for democracy. Additionally, it was created to serve as part of my portfolio. Therefore, this repository does not initially expect any code contributions. However, other forms of support, such as sharing new data sources to include in this project, are welcome.
+
+This project is Open Source, so even if this repository is not expecting code-related Pull Requests, you can create a new project based on this one. For this, it is important to comply with the [GPL-3.0 license](./LICENSE.md). Also, please see the [License Compliance](#license-compliance) section for more details.
 
 ## How to run the project
 
@@ -64,3 +67,16 @@ When finish to use the app, run the next command to stop the container:
 ```bash
 docker compose down
 ```
+
+## Data
+
+This project use de following data sources:
+
+- [Visualizador de datos sobre los casos de corrupción en Chile](https://github.com/bastianolea/corrupcion_chile): GitHub repository of an actual information visualization application about corruption in Chile, created by Bastián Olea Herrera. The data was copy into the directory [corrupcion_chile_bastian_olea](./src/data/original_data/corrupcion_chile_bastian_olea/). This application use the [GPL-3.0 license](./LICENSE.md), and as a result, *Reveal Corruption* uses the same license.
+
+- [Base de Datos Estadísticos (BDE) - Banco Central de Chile (BCCh)](https://si3.bcentral.cl/siete): Statistical Database from the Central Bank of Chile. The current data used is the [annual variation of the IPC](https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_MACRO/MN_EST_MACRO_IV/PEM_VAR12_IPC_BS23/638421420032988875?cbFechaInicio=1928&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=) (Índice de Precios al Consumidor), consumer's price index, with monthly frecuency. The data was copy into the directory [bde_banco_central](./src/data/original_data/bde_banco_central/).
+
+
+## License Compliance
+
+The data from the [corrupcion_chile](https://github.com/bastianolea/corrupcion_chile) repository is used under the terms of the GPL-3.0 license. The GPL-3.0 license requires that any derivative works also be licensed under the GPL-3.0. Therefore, this project, *Reveal Corruption*, is distributed under the GPL-3.0 license. You can find a copy of the GPL-3.0 license in the [LICENSE.md](./LICENSE.md) file in this repository. For more information about the GPL-3.0 license, please visit the [official GPL website](https://www.gnu.org/licenses/gpl-3.0.html).
