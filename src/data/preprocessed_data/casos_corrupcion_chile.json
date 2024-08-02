@@ -1,6 +1,8 @@
 {
     "metadata": {
+        "name": "Corruption Cases in Chile",
         "country": "Chile",
+        "language": "es",
         "currency": "Chilean Peso (CLP)",
         "inflation readjustment reference date": "2024-06",
         "categorical classes": {
@@ -11,20 +13,20 @@
                 "Izquierda"
             ],
             "Partido": [
-                "RN",
-                "Independiente",
-                "Liberal",
-                "PPD",
-                "Evópoli",
-                "PS",
-                "Republicanos",
-                "PC",
-                "DC",
-                "UDI",
-                "RD",
-                "PRO",
                 "Comunes",
-                "PR"
+                "Independiente",
+                "UDI",
+                "Republicanos",
+                "PR",
+                "PRO",
+                "Evópoli",
+                "Liberal",
+                "RN",
+                "PS",
+                "PC",
+                "RD",
+                "DC",
+                "PPD"
             ],
             "Posición": [
                 "Alcalde",
