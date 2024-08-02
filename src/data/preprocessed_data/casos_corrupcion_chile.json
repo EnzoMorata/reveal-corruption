@@ -1,10 +1,106 @@
 {
-    "metadata": {},
+    "metadata": {
+        "country": "Chile",
+        "currency": "Chilean Peso (CLP)",
+        "inflation readjustment reference date": "2024-06",
+        "crimes classification": {
+            "Corrupción": [
+                "Soborno",
+                "Cohecho",
+                "Malversación",
+                "Fraude al Fisco",
+                "Violación de secretos",
+                "Prevaricación"
+            ],
+            "Delitos Económicos": [
+                "Delitos Tributarios",
+                "Delitos Aduaneros",
+                "Delitos contra la Propiedad Intelectual",
+                "Fraudes",
+                "Delitos Informáticos"
+            ],
+            "Crimen Organizado y lavado de dinero": [
+                "Lavado De Dinero",
+                "Asociación Ilícita",
+                "Terrorismo",
+                "Armas",
+                "Trata y Tráfico"
+            ],
+            "Otros": []
+        },
+        "categorical classes": {
+            "Sector": [
+                "Derecha",
+                "Ninguno",
+                "Centro",
+                "Izquierda"
+            ],
+            "Partido": [
+                "Comunes",
+                "PR",
+                "Liberal",
+                "Independiente",
+                "PS",
+                "PPD",
+                "Republicanos",
+                "UDI",
+                "PRO",
+                "Evópoli",
+                "RN",
+                "PC",
+                "RD",
+                "DC"
+            ],
+            "Posición": [
+                "Alcalde",
+                "Carabineros",
+                "Privado",
+                "Presidente",
+                "Senador",
+                "Fundación",
+                "Funcionario municipal",
+                "Subsecretario",
+                "Ministro",
+                "Diputado",
+                "Policía de Investigaciones",
+                "Concejal"
+            ],
+            "Beneficiado": [
+                "Privados",
+                "Político",
+                "Alcalde",
+                "Campaña política",
+                "Partido",
+                "Personal"
+            ],
+            "Perjudicado": [
+                "Municipio",
+                "Privado",
+                "Fisco"
+            ],
+            "Objetivo": [
+                "Financiamiento político",
+                "Enriquecimiento",
+                "Campaña política"
+            ],
+            "Estado": [
+                "En investigación",
+                "Suspensión condicional de la causa",
+                "Sentencia",
+                "Formalizado",
+                "Prisión preventiva",
+                "Condena",
+                "Responsable pero sin condena"
+            ]
+        }
+    },
     "data": [
         {
             "Caso": "Alcaldesa de Viña del Mar (Virginia Reginato)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -82,7 +178,9 @@
         {
             "Caso": "Alcaldesa de Maipú (Cathy Barriga)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -121,7 +219,9 @@
         {
             "Caso": "Caso Penta",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Privado",
             "Beneficiado": null,
             "Perjudicado": "Privado",
@@ -181,7 +281,9 @@
         {
             "Caso": "Sebastián Piñera (LAN)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Presidente",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -292,7 +394,9 @@
         {
             "Caso": "Exalcalde de Talca (Juan Castro)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -331,7 +435,9 @@
         {
             "Caso": "Alcalde de San Joaquín (Sergio Echeverria)",
             "Sector": "Centro",
-            "Partido": "PPD",
+            "Partido": [
+                "PPD"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -366,7 +472,9 @@
         {
             "Caso": "Alcaldesa de San Bernardo (Nora Cuevas)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -439,7 +547,9 @@
         {
             "Caso": "Municipalidad de Las Condes (Daniela Peñaloza)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -516,7 +626,9 @@
         {
             "Caso": "Alcaldesa de Lampa (Graciela Ortúzar Novoa)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -552,7 +664,9 @@
         {
             "Caso": "Caso Corpesca",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Senador",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -593,7 +707,9 @@
         {
             "Caso": "Alcalde de La Florida (Rodolfo Carter)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -631,7 +747,9 @@
         {
             "Caso": "Alcalde de Vitacura (Raúl Torrealba)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -675,7 +793,9 @@
         {
             "Caso": "Alcalde Estación Central (Rodrigo Delgado)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -710,7 +830,9 @@
         {
             "Caso": "Alcalde de San Fernando (Luis Berwart)",
             "Sector": "Ninguno",
-            "Partido": "Independiente",
+            "Partido": [
+                "Independiente"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -813,7 +935,9 @@
         {
             "Caso": "Alcalde de Arica (Gerardo Espíndola)",
             "Sector": "Centro",
-            "Partido": "Liberal",
+            "Partido": [
+                "Liberal"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -842,7 +966,9 @@
         {
             "Caso": "Alcalde de Rancagua (Juan Ramón Godoy)",
             "Sector": "Izquierda",
-            "Partido": "PS",
+            "Partido": [
+                "PS"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -888,7 +1014,9 @@
         {
             "Caso": "Gobernador regional Araucanía (Luciano Rivas)",
             "Sector": "Derecha",
-            "Partido": "Evópoli",
+            "Partido": [
+                "Evópoli"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -926,7 +1054,9 @@
         {
             "Caso": "Alcalde de Rinconada (Juan Galdames)",
             "Sector": "Derecha",
-            "Partido": "Independiente",
+            "Partido": [
+                "Independiente"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -995,7 +1125,9 @@
         {
             "Caso": "Alcalde de Puerto Natales (Fernando Paredes)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1103,7 +1235,9 @@
         {
             "Caso": "Corporación de Desarrollo Social de Providencia",
             "Sector": "Izquierda",
-            "Partido": "RD",
+            "Partido": [
+                "RD"
+            ],
             "Posición": "Funcionario municipal",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -1139,7 +1273,11 @@
         {
             "Caso": "Caso MOP-Gate",
             "Sector": "Izquierda",
-            "Partido": "PPD, PS, PR",
+            "Partido": [
+                "PPD",
+                "PS",
+                "PR"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1222,7 +1360,9 @@
         {
             "Caso": "Municipalidad de Río Bueno (Carolina Silva)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -1257,7 +1397,9 @@
         {
             "Caso": "Alcalde de Algarrobo (José Luis Yáñez)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -1294,7 +1436,9 @@
         {
             "Caso": "Caso ChileDeportes",
             "Sector": "Izquierda",
-            "Partido": "PPD",
+            "Partido": [
+                "PPD"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1352,7 +1496,9 @@
         {
             "Caso": "Alcalde de Sagrada Familia (Martín Arriagada Urrutia)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1387,7 +1533,9 @@
         {
             "Caso": "Alcalde de Lo Barnechea (Felipe Guevara)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -1430,7 +1578,9 @@
         {
             "Caso": "Caso Convenios, caso manicure (Araucanía)",
             "Sector": "Derecha",
-            "Partido": "Evópoli",
+            "Partido": [
+                "Evópoli"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1506,7 +1656,9 @@
         {
             "Caso": "Alcalde de Melipilla (Iván Campos)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1542,7 +1694,9 @@
         {
             "Caso": "Caso SQM (Claudio Eguiluz)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1577,7 +1731,9 @@
         {
             "Caso": "Caso Convenios (Democracia Viva)",
             "Sector": "Izquierda",
-            "Partido": "RD",
+            "Partido": [
+                "RD"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1613,7 +1769,10 @@
         {
             "Caso": "Caso Convenios (Fundación Coigue)",
             "Sector": "Derecha",
-            "Partido": "Evópoli, UDI",
+            "Partido": [
+                "Evópoli",
+                "UDI"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1652,7 +1811,9 @@
         {
             "Caso": "Caso Motorola (Katherine Martorell)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Subsecretario",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1687,7 +1848,9 @@
         {
             "Caso": "Caso Convenios (Bonhomía)",
             "Sector": "Derecha",
-            "Partido": "Republicanos",
+            "Partido": [
+                "Republicanos"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1727,7 +1890,9 @@
         {
             "Caso": "Alcalde de Guaitecas (Cristian Alvarado Oyarzo)",
             "Sector": "Derecha",
-            "Partido": "Independiente",
+            "Partido": [
+                "Independiente"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1763,7 +1928,9 @@
         {
             "Caso": "Gastos electorales Comunes (Karina Oliva)",
             "Sector": "Izquierda",
-            "Partido": "Comunes",
+            "Partido": [
+                "Comunes"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1833,7 +2000,9 @@
         {
             "Caso": "Alcalde de Valparaíso (Jorge Castro)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1870,7 +2039,9 @@
         {
             "Caso": "Caso San Ramón",
             "Sector": "Izquierda",
-            "Partido": "PS",
+            "Partido": [
+                "PS"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": "Político",
             "Perjudicado": "Municipio",
@@ -1940,7 +2111,9 @@
         {
             "Caso": "Caso Corpesca (Jaime Orpis)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -1977,7 +2150,9 @@
         {
             "Caso": "Caso Convenios, arista lencería (Camila Polizzi)",
             "Sector": "Izquierda",
-            "Partido": "Independiente",
+            "Partido": [
+                "Independiente"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2024,7 +2199,9 @@
         {
             "Caso": "Alcalde de Puente Alto (Germán Codina)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2054,7 +2231,9 @@
         {
             "Caso": "Alcalde de Mostazal (Sergio Medel)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2085,7 +2264,9 @@
         {
             "Caso": "Alcalde de Calama (Daniel Agusto Pérez)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2121,7 +2302,9 @@
         {
             "Caso": "Alcalde de Santiago (Felipe Alessandri)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2157,7 +2340,9 @@
         {
             "Caso": "Alcalde de Ñuñoa (Andrés Zarhi)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2193,7 +2378,9 @@
         {
             "Caso": "Alcalde de Linares (Mario Meza)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2223,7 +2410,10 @@
         {
             "Caso": "Caso Convenios (Atacama)",
             "Sector": "Izquierda",
-            "Partido": "DC, PRO",
+            "Partido": [
+                "DC",
+                "PRO"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2251,7 +2441,9 @@
         {
             "Caso": "Administrador municipal de Viña del Mar",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Funcionario municipal",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2287,7 +2479,9 @@
         {
             "Caso": "Alcalde suplente de Tierra Amarilla (Mario Morales)",
             "Sector": "Izquierda",
-            "Partido": "PS",
+            "Partido": [
+                "PS"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2326,7 +2520,9 @@
         {
             "Caso": "Ex administrador municipal de Tierra Amarilla",
             "Sector": "Centro",
-            "Partido": "DC",
+            "Partido": [
+                "DC"
+            ],
             "Posición": "Funcionario municipal",
             "Beneficiado": "Alcalde",
             "Perjudicado": "Municipio",
@@ -2362,7 +2558,9 @@
         {
             "Caso": "Caso Penta (Pablo Wagner)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Subsecretario",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2401,7 +2599,9 @@
         {
             "Caso": "Alcalde de Las Condes (Joaquín Lavín)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2457,7 +2657,9 @@
         {
             "Caso": "Alcalde de San Fernando (Juan Paulo Molina)",
             "Sector": "Centro",
-            "Partido": "DC",
+            "Partido": [
+                "DC"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2492,7 +2694,10 @@
         {
             "Caso": "Caso Coimas",
             "Sector": "Izquierda",
-            "Partido": "PR, DC",
+            "Partido": [
+                "PR",
+                "DC"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2528,7 +2733,9 @@
         {
             "Caso": "Alcaldesa de Providencia (Josefa Errázuriz)",
             "Sector": "Izquierda",
-            "Partido": "PPD",
+            "Partido": [
+                "PPD"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2563,7 +2770,9 @@
         {
             "Caso": "Claudia Nogueira ",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Diputado",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2592,7 +2801,9 @@
         {
             "Caso": "Caso Main, alcaldesa de Antofagasta (Karen Rojo)",
             "Sector": "Derecha",
-            "Partido": "Independiente",
+            "Partido": [
+                "Independiente"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2629,7 +2840,9 @@
         {
             "Caso": "Caso EFE",
             "Sector": "Centro",
-            "Partido": "DC",
+            "Partido": [
+                "DC"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2665,7 +2878,9 @@
         {
             "Caso": "Alcaldesa de Recoleta (Sol Letelier)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": "Campaña política",
             "Perjudicado": "Municipio",
@@ -2700,7 +2915,9 @@
         {
             "Caso": "Alcalde de Recoleta (Daniel Jadue)",
             "Sector": "Izquierda",
-            "Partido": "PC",
+            "Partido": [
+                "PC"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": "Partido",
             "Perjudicado": "Municipio",
@@ -2740,7 +2957,9 @@
         {
             "Caso": "Alcalde de Ñuñoa (Pedro Sabat)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2769,7 +2988,9 @@
         {
             "Caso": "Alcalde de Buin (Miguel Araya)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": "Municipio",
@@ -2811,7 +3032,9 @@
         {
             "Caso": "Caso Convenios, División de Fomento e Industria (Araucanía)",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": "Fundación",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2878,7 +3101,9 @@
         {
             "Caso": "Caso Hermosilla/Caso Audios",
             "Sector": "Derecha",
-            "Partido": "RN",
+            "Partido": [
+                "RN"
+            ],
             "Posición": null,
             "Beneficiado": null,
             "Perjudicado": null,
@@ -2961,7 +3186,9 @@
         {
             "Caso": "Caso Luminarias: concejal de Iquique (Felipe Arenas)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Concejal",
             "Beneficiado": "Personal",
             "Perjudicado": "Municipio",
@@ -2999,7 +3226,9 @@
         {
             "Caso": "Caso Cuentas Corrientes, alcalde de San Ignacio (César Figueroa)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -3042,7 +3271,9 @@
         {
             "Caso": "Caso Cuentas Corrientes, alcalde de Ñiquén (Manuel Pino)",
             "Sector": "Derecha",
-            "Partido": "UDI",
+            "Partido": [
+                "UDI"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
@@ -3083,7 +3314,9 @@
         {
             "Caso": "Caso Cuentas Corrientes, alcalde de Bulnes, (Guillermo Yeber)",
             "Sector": "Centro",
-            "Partido": "DC",
+            "Partido": [
+                "DC"
+            ],
             "Posición": "Alcalde",
             "Beneficiado": null,
             "Perjudicado": null,
