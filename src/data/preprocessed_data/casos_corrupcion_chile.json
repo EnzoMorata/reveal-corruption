@@ -10,7 +10,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Virginia Reginato",
+            "Responsable": [
+                "Virginia Reginato"
+            ],
             "Comuna": "Viña del Mar",
             "Fundación": null,
             "Conclusión": null,
@@ -47,7 +49,11 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Eduardo Gordon, Gustavo González, Bruno Villalobos",
+            "Responsable": [
+                "Eduardo Gordon",
+                "Gustavo González",
+                "Bruno Villalobos"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -78,7 +84,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Cathy Barriga",
+            "Responsable": [
+                "Cathy Barriga"
+            ],
             "Comuna": "Maipú",
             "Fundación": null,
             "Conclusión": "prisión preventiva",
@@ -113,7 +121,10 @@
             "Perjudicado": "Privado",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Jovino Novoa, Carlos Alberto Délano",
+            "Responsable": [
+                "Jovino Novoa",
+                "Carlos Alberto Délano"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -166,7 +177,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Sebastián Piñera",
+            "Responsable": [
+                "Sebastián Piñera"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": "multa",
@@ -197,7 +210,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Augusto Pinochet",
+            "Responsable": [
+                "Augusto Pinochet"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": "impunidad",
@@ -267,7 +282,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Juan Castro",
+            "Responsable": [
+                "Juan Castro"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -302,7 +319,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "En investigación",
-            "Responsable": "Sergio Echeverria",
+            "Responsable": [
+                "Sergio Echeverria"
+            ],
             "Comuna": "San Joaquín",
             "Fundación": null,
             "Conclusión": null,
@@ -333,7 +352,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Nora Cuevas",
+            "Responsable": [
+                "Nora Cuevas"
+            ],
             "Comuna": "San Bernardo",
             "Fundación": null,
             "Conclusión": null,
@@ -400,7 +421,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Daniela Peñaloza",
+            "Responsable": [
+                "Daniela Peñaloza"
+            ],
             "Comuna": "Las Condes",
             "Fundación": null,
             "Conclusión": null,
@@ -433,7 +456,11 @@
             "Perjudicado": "Fisco",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Óscar Izurieta, Juan Miguel Fuente-Alba, Humberto Oviedo",
+            "Responsable": [
+                "Óscar Izurieta",
+                "Juan Miguel Fuente-Alba",
+                "Humberto Oviedo"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -467,7 +494,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Graciela Ortúzar Novoa",
+            "Responsable": [
+                "Graciela Ortúzar Novoa"
+            ],
             "Comuna": "Lampa",
             "Fundación": null,
             "Conclusión": null,
@@ -499,7 +528,11 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Pablo Longueira, Jaime Orpis, Fulvio Rossi",
+            "Responsable": [
+                "Pablo Longueira",
+                "Jaime Orpis",
+                "Fulvio Rossi"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": "cárcel",
@@ -534,7 +567,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Rodolfo Carter",
+            "Responsable": [
+                "Rodolfo Carter"
+            ],
             "Comuna": "La Florida",
             "Fundación": null,
             "Conclusión": null,
@@ -568,7 +603,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Raúl Torrealba",
+            "Responsable": [
+                "Raúl Torrealba"
+            ],
             "Comuna": "Vitacura",
             "Fundación": null,
             "Conclusión": "prisión preventiva",
@@ -608,7 +645,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Rodrigo Delgado",
+            "Responsable": [
+                "Rodrigo Delgado"
+            ],
             "Comuna": "Estación Central ",
             "Fundación": null,
             "Conclusión": null,
@@ -639,7 +678,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Luis Berwart",
+            "Responsable": [
+                "Luis Berwart"
+            ],
             "Comuna": "San Fernando",
             "Fundación": null,
             "Conclusión": null,
@@ -734,7 +775,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "En investigación",
-            "Responsable": "Gerardo Espíndola",
+            "Responsable": [
+                "Gerardo Espíndola"
+            ],
             "Comuna": "Arica",
             "Fundación": null,
             "Conclusión": null,
@@ -759,7 +802,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Juan Ramón Godoy",
+            "Responsable": [
+                "Juan Ramón Godoy"
+            ],
             "Comuna": "Rancagua",
             "Fundación": null,
             "Conclusión": null,
@@ -801,7 +846,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Luciano Rivas",
+            "Responsable": [
+                "Luciano Rivas"
+            ],
             "Comuna": "La Araucanía",
             "Fundación": "Fundación Local",
             "Conclusión": null,
@@ -835,7 +882,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Juan Galdames",
+            "Responsable": [
+                "Juan Galdames"
+            ],
             "Comuna": "Rinconada",
             "Fundación": null,
             "Conclusión": null,
@@ -898,7 +947,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Fernando Paredes",
+            "Responsable": [
+                "Fernando Paredes"
+            ],
             "Comuna": "Puerto Natales",
             "Fundación": null,
             "Conclusión": null,
@@ -932,7 +983,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": "Enriquecimiento",
             "Estado": null,
-            "Responsable": "Francisco Javier Jara",
+            "Responsable": [
+                "Francisco Javier Jara"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -996,7 +1049,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "Suspensión condicional de la causa",
-            "Responsable": "Mariano Rosenzvaig",
+            "Responsable": [
+                "Mariano Rosenzvaig"
+            ],
             "Comuna": "Providencia",
             "Fundación": null,
             "Conclusión": "firma mensual, fijación de domicilio y deberá ofrecer una charla",
@@ -1105,7 +1160,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Carolina Silva",
+            "Responsable": [
+                "Carolina Silva"
+            ],
             "Comuna": "Río Bueno",
             "Fundación": null,
             "Conclusión": null,
@@ -1136,7 +1193,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "José Luis Yáñez",
+            "Responsable": [
+                "José Luis Yáñez"
+            ],
             "Comuna": "Algarrobo",
             "Fundación": null,
             "Conclusión": null,
@@ -1194,7 +1253,11 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Antonio Cordero Kher, Luis Reyes Álvarez, Alex Gluzman Comte",
+            "Responsable": [
+                "Antonio Cordero Kher",
+                "Luis Reyes Álvarez",
+                "Alex Gluzman Comte"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1219,7 +1282,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "Sentencia",
-            "Responsable": "Martín Arriagada Urrutia",
+            "Responsable": [
+                "Martín Arriagada Urrutia"
+            ],
             "Comuna": "Sagrada Familia",
             "Fundación": null,
             "Conclusión": "Sentenciado a tres años de presidio",
@@ -1250,7 +1315,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Felipe Guevara",
+            "Responsable": [
+                "Felipe Guevara"
+            ],
             "Comuna": "Lo Barnechea",
             "Fundación": null,
             "Conclusión": null,
@@ -1289,7 +1356,10 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Rinet Ortiz, Juvenal Ortiz",
+            "Responsable": [
+                "Rinet Ortiz",
+                "Juvenal Ortiz"
+            ],
             "Comuna": "La Araucanía",
             "Fundación": "Fundaciones Folab y Educc.",
             "Conclusión": null,
@@ -1358,7 +1428,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Iván Campos",
+            "Responsable": [
+                "Iván Campos"
+            ],
             "Comuna": "Melipilla",
             "Fundación": null,
             "Conclusión": null,
@@ -1390,7 +1462,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Claudio Eguiluz",
+            "Responsable": [
+                "Claudio Eguiluz"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1421,7 +1495,10 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Daniel Andrade, Carlos Contreras",
+            "Responsable": [
+                "Daniel Andrade",
+                "Carlos Contreras"
+            ],
             "Comuna": "Antofagasta",
             "Fundación": "Democracia Viva",
             "Conclusión": null,
@@ -1452,7 +1529,11 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Luciano Rivas, Claudia\nLillo, Sebastián\nNaveillán",
+            "Responsable": [
+                "Luciano Rivas",
+                "Claudia\nLillo",
+                "Sebastián\nNaveillán"
+            ],
             "Comuna": "La Araucanía",
             "Fundación": "Fundación Coigue",
             "Conclusión": null,
@@ -1485,7 +1566,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Katherine Martorell",
+            "Responsable": [
+                "Katherine Martorell"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1554,7 +1637,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "Sentencia",
-            "Responsable": "Cristian Alvarado Oyarzo",
+            "Responsable": [
+                "Cristian Alvarado Oyarzo"
+            ],
             "Comuna": "Guaitecas",
             "Fundación": null,
             "Conclusión": "10 años de presidio",
@@ -1586,7 +1671,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Karina Oliva",
+            "Responsable": [
+                "Karina Oliva"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1617,7 +1704,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Franka Grez",
+            "Responsable": [
+                "Franka Grez"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1648,7 +1737,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Jorge Castro",
+            "Responsable": [
+                "Jorge Castro"
+            ],
             "Comuna": "Valparaíso",
             "Fundación": null,
             "Conclusión": null,
@@ -1681,7 +1772,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": "Enriquecimiento",
             "Estado": null,
-            "Responsable": "Miguel Ángel Aguilera",
+            "Responsable": [
+                "Miguel Ángel Aguilera"
+            ],
             "Comuna": "San Ramón",
             "Fundación": null,
             "Conclusión": null,
@@ -1745,7 +1838,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Jaime Orpis",
+            "Responsable": [
+                "Jaime Orpis"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -1778,7 +1873,10 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Camila Polizzi, Diego Polanco",
+            "Responsable": [
+                "Camila Polizzi",
+                "Diego Polanco"
+            ],
             "Comuna": "Biobío",
             "Fundación": "Fundación En tí",
             "Conclusión": null,
@@ -1820,7 +1918,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Germán Codina",
+            "Responsable": [
+                "Germán Codina"
+            ],
             "Comuna": "Puente Alto",
             "Fundación": null,
             "Conclusión": null,
@@ -1846,7 +1946,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Sergio Medel",
+            "Responsable": [
+                "Sergio Medel"
+            ],
             "Comuna": "Mostazal",
             "Fundación": null,
             "Conclusión": null,
@@ -1873,7 +1975,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Daniel Agusto Pérez",
+            "Responsable": [
+                "Daniel Agusto Pérez"
+            ],
             "Comuna": "Calama",
             "Fundación": null,
             "Conclusión": null,
@@ -1905,7 +2009,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Felipe Alessandri",
+            "Responsable": [
+                "Felipe Alessandri"
+            ],
             "Comuna": "Santiago",
             "Fundación": null,
             "Conclusión": null,
@@ -1937,7 +2043,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "Formalizado",
-            "Responsable": "Andrés Zarhi",
+            "Responsable": [
+                "Andrés Zarhi"
+            ],
             "Comuna": "Ñuñoa",
             "Fundación": null,
             "Conclusión": "arresto domiciliario nocturno, arraigo nacional",
@@ -1969,7 +2077,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "Formalizado",
-            "Responsable": "Mario Meza Vásquez",
+            "Responsable": [
+                "Mario Meza Vásquez"
+            ],
             "Comuna": "Linares",
             "Fundación": null,
             "Conclusión": null,
@@ -2021,7 +2131,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Claudio Boisier",
+            "Responsable": [
+                "Claudio Boisier"
+            ],
             "Comuna": "Viña del Mar",
             "Fundación": null,
             "Conclusión": null,
@@ -2053,7 +2165,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "Prisión preventiva",
-            "Responsable": "Mario Morales",
+            "Responsable": [
+                "Mario Morales"
+            ],
             "Comuna": "Tierra Amarilla",
             "Fundación": null,
             "Conclusión": null,
@@ -2088,7 +2202,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "Condena",
-            "Responsable": "Jaime Bahamondes Cabrera",
+            "Responsable": [
+                "Jaime Bahamondes Cabrera"
+            ],
             "Comuna": "Tierra Amarilla",
             "Fundación": null,
             "Conclusión": "presidio, prohibición de cargo público, multa",
@@ -2120,7 +2236,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Pablo Wagner",
+            "Responsable": [
+                "Pablo Wagner"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -2155,7 +2273,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Joaquín Lavín Infante",
+            "Responsable": [
+                "Joaquín Lavín Infante"
+            ],
             "Comuna": "Las Condes",
             "Fundación": null,
             "Conclusión": null,
@@ -2205,7 +2325,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Juan Paulo Molina",
+            "Responsable": [
+                "Juan Paulo Molina"
+            ],
             "Comuna": "San Fernando",
             "Fundación": null,
             "Conclusión": null,
@@ -2236,7 +2358,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Patricio Tombolini",
+            "Responsable": [
+                "Patricio Tombolini"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": "presidio",
@@ -2268,7 +2392,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "Responsable pero sin condena",
-            "Responsable": "Josefa Errázuriz",
+            "Responsable": [
+                "Josefa Errázuriz"
+            ],
             "Comuna": "Providencia",
             "Fundación": null,
             "Conclusión": "Sin condena por prescripción",
@@ -2299,7 +2425,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Claudia Nogueira ",
+            "Responsable": [
+                "Claudia Nogueira "
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -2324,7 +2452,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "Condena",
-            "Responsable": "Karen Rojo",
+            "Responsable": [
+                "Karen Rojo"
+            ],
             "Comuna": "Antofagasta",
             "Fundación": null,
             "Conclusión": "condenada a cinco años y un día de presidio mayor en su grado mínimo",
@@ -2357,7 +2487,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Luis Ajenjo",
+            "Responsable": [
+                "Luis Ajenjo"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -2389,7 +2521,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": "Campaña política",
             "Estado": null,
-            "Responsable": "Sol Letelier",
+            "Responsable": [
+                "Sol Letelier"
+            ],
             "Comuna": "Recoleta",
             "Fundación": null,
             "Conclusión": null,
@@ -2420,7 +2554,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "En investigación",
-            "Responsable": "Daniel Jadue",
+            "Responsable": [
+                "Daniel Jadue"
+            ],
             "Comuna": "Recoleta",
             "Fundación": null,
             "Conclusión": null,
@@ -2456,7 +2592,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Pedro Sabat",
+            "Responsable": [
+                "Pedro Sabat"
+            ],
             "Comuna": "Ñuñoa",
             "Fundación": null,
             "Conclusión": "sentencia",
@@ -2481,7 +2619,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": null,
             "Estado": "En investigación",
-            "Responsable": "Miguel Araya",
+            "Responsable": [
+                "Miguel Araya"
+            ],
             "Comuna": "Buin",
             "Fundación": null,
             "Conclusión": null,
@@ -2519,7 +2659,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Susan Alarcón",
+            "Responsable": [
+                "Susan Alarcón"
+            ],
             "Comuna": "La Araucanía",
             "Fundación": "Fundaciones Folab y Educc.",
             "Conclusión": null,
@@ -2580,7 +2722,11 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": "En investigación",
-            "Responsable": "Luis Hermosilla, Sergio Muñoz, Andrés Chadqick",
+            "Responsable": [
+                "Luis Hermosilla",
+                "Sergio Muñoz",
+                "Andrés Chadqick"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -2613,7 +2759,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Héctor Espinosa",
+            "Responsable": [
+                "Héctor Espinosa"
+            ],
             "Comuna": null,
             "Fundación": null,
             "Conclusión": null,
@@ -2653,7 +2801,9 @@
             "Perjudicado": "Municipio",
             "Objetivo": "Enriquecimiento",
             "Estado": "Condena",
-            "Responsable": "Felipe Arenas",
+            "Responsable": [
+                "Felipe Arenas"
+            ],
             "Comuna": "Iquique",
             "Fundación": null,
             "Conclusión": "3 años y un día y 718 días de presidio, con el beneficio de la libertad vigilada intensiva",
@@ -2687,7 +2837,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "César Figueroa",
+            "Responsable": [
+                "César Figueroa"
+            ],
             "Comuna": "San Ignacio",
             "Fundación": null,
             "Conclusión": null,
@@ -2728,7 +2880,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Manuel Pino",
+            "Responsable": [
+                "Manuel Pino"
+            ],
             "Comuna": "Ñiquén",
             "Fundación": null,
             "Conclusión": null,
@@ -2767,7 +2921,9 @@
             "Perjudicado": null,
             "Objetivo": null,
             "Estado": null,
-            "Responsable": "Guillermo Yeber",
+            "Responsable": [
+                "Guillermo Yeber"
+            ],
             "Comuna": "Bulnes",
             "Fundación": null,
             "Conclusión": null,
