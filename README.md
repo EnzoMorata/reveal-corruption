@@ -74,6 +74,8 @@ This project use de following data sources:
 
 - [Visualizador de datos sobre los casos de corrupción en Chile](https://github.com/bastianolea/corrupcion_chile): GitHub repository of an actual information visualization application about corruption in Chile, created by Bastián Olea Herrera. The data was copy into the directory [corrupcion_chile_bastian_olea](./src/data/original_data/corrupcion_chile_bastian_olea/). This application use the [GPL-3.0 license](./LICENSE.md), and as a result, *Reveal Corruption* uses the same license.
 
+- [Base de Datos Estadísticos (BDE) - Banco Central de Chile (BCCh)](https://si3.bcentral.cl/siete): Statistical Database from the Central Bank of Chile. The current data used is the [annual variation of the IPC](https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_MACRO/MN_EST_MACRO_IV/PEM_VAR12_IPC_BS23/638421420032988875?cbFechaInicio=1928&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=) (Índice de Precios al Consumidor), consumer's price index, with monthly frecuency. The data was copy into the directory [bde_banco_central](./src/data/original_data/bde_banco_central/).
+
 
 ## License Compliance
 
