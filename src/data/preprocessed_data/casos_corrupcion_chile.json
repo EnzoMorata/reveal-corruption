@@ -3,31 +3,7 @@
         "country": "Chile",
         "currency": "Chilean Peso (CLP)",
         "inflation readjustment reference date": "2024-06",
-        "crimes classification": {
-            "Corrupción": [
-                "Soborno",
-                "Cohecho",
-                "Malversación",
-                "Fraude al Fisco",
-                "Violación de secretos",
-                "Prevaricación"
-            ],
-            "Delitos Económicos": [
-                "Delitos Tributarios",
-                "Delitos Aduaneros",
-                "Delitos contra la Propiedad Intelectual",
-                "Fraudes",
-                "Delitos Informáticos"
-            ],
-            "Crimen Organizado y lavado de dinero": [
-                "Lavado De Dinero",
-                "Asociación Ilícita",
-                "Terrorismo",
-                "Armas",
-                "Trata y Tráfico"
-            ],
-            "Otros": []
-        },
+        "crimes classification": {},
         "categorical classes": {
             "Sector": [
                 "Derecha",
@@ -36,20 +12,20 @@
                 "Izquierda"
             ],
             "Partido": [
-                "Comunes",
-                "PR",
-                "Liberal",
-                "Independiente",
-                "PS",
-                "PPD",
-                "Republicanos",
-                "UDI",
                 "PRO",
-                "Evópoli",
-                "RN",
                 "PC",
+                "UDI",
+                "PR",
+                "RN",
+                "Evópoli",
+                "Republicanos",
+                "PPD",
+                "Liberal",
+                "PS",
+                "DC",
+                "Comunes",
                 "RD",
-                "DC"
+                "Independiente"
             ],
             "Posición": [
                 "Alcalde",
@@ -91,7 +67,32 @@
                 "Prisión preventiva",
                 "Condena",
                 "Responsable pero sin condena"
-            ]
+            ],
+            "Delitos": {
+                "Corrupción": [
+                    "Soborno",
+                    "Cohecho",
+                    "Malversación",
+                    "Fraude al Fisco",
+                    "Violación de secretos",
+                    "Prevaricación"
+                ],
+                "Delitos Económicos": [
+                    "Delitos Tributarios",
+                    "Delitos Aduaneros",
+                    "Delitos contra la Propiedad Intelectual",
+                    "Fraudes",
+                    "Delitos Informáticos"
+                ],
+                "Crimen Organizado y lavado de dinero": [
+                    "Lavado De Dinero",
+                    "Asociación Ilícita",
+                    "Terrorismo",
+                    "Armas",
+                    "Trata y Tráfico"
+                ],
+                "Otros": []
+            }
         }
     },
     "data": [
